@@ -1,9 +1,11 @@
+<style>
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
 }
+</style>
 
 <h1 align="center">Hi 👋, I'm Deepak Kumar Upadhayay</h1>
 <h3 align="center">A passionate programmer from India</h3>
