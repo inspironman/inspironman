@@ -1,7 +1,7 @@
 <style>
 .center {
   display: block;
-  margin-left: auto;
+  margin-left: 100;
   margin-right: auto;
   width: 50%;
 }
