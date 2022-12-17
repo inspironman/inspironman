@@ -2,14 +2,14 @@
 .center {
   display: block;
   margin-left: 100;
-  margin-right: auto;
+  margin-right: 500;
   width: 50%;
 }
 </style>
 
 <h1 align="center">Hi 👋, I'm Deepak Kumar Upadhayay</h1>
 <h3 align="center">A passionate programmer from India</h3>
-<img src="https://github.com/inspironman/inspironman/blob/main/913V.gif" alt="https://gifer.com/en/913V" class = "center">
+<img src="https://github.com/inspironman/inspironman/blob/main/913V.gif" alt="https://gifer.com/en/913V" class="center">
 - 📫 How to reach me **dku3132@gmail.com**
 
 <!-- <h3 align="left">Connect with me:</h3> -->
