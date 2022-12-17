@@ -1,11 +1,9 @@
-### Hi there 👋
-
- <h1 align="center">Hi 👋, I'm Deepak Kumar Upadhayay</h1>
+<h1 align="center">Hi 👋, I'm Deepak Kumar Upadhayay</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
 - 📫 How to reach me **dku3132@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
 
