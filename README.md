@@ -1,6 +1,6 @@
  
 <h1 align="center">Hi 👋, I'm Deepak Kumar Upadhayay</h1>
-<h3 align="center">A passionate programmer from India</h3>
+<h3 align="center">PROgrammer</h3>
 <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;<img src="https://github.com/inspironman/inspironman/blob/main/913V.gif" alt="https://gifer.com/en/913V" style="width:200%;"></p>
 - 📫 How to reach me **dku3132@gmail.com**
 
